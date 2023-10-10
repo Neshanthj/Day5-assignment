@@ -1,0 +1,38 @@
+//Expected Output for jsonForForinForofForeach.js
+PS C:\Users\Neshanth\Documents\task 5> node jsonForForinForofForeach.js
+Neshanth
+jneshanth@gmail.com
+15.04.1999
+Male
+Indian
+Single
+[ 'English', 'Tamil' ]
+24
+{ 'B.E': 'CGPA 6.66', 'Higher secondary': '72%', SSLC: '83%' }
+Neshanth
+jneshanth@gmail.com
+15.04.1999
+Male
+Indian
+Single
+[ 'English', 'Tamil' ]
+24
+{ 'B.E': 'CGPA 6.66', 'Higher secondary': '72%', SSLC: '83%' }
+Neshanth
+jneshanth@gmail.com
+15.04.1999
+Male
+Indian
+Single
+[ 'English', 'Tamil' ]
+24
+{ 'B.E': 'CGPA 6.66', 'Higher secondary': '72%', SSLC: '83%' }
+Neshanth
+jneshanth@gmail.com
+15.04.1999
+Male
+Indian
+Single
+[ 'English', 'Tamil' ]
+24
+{ 'B.E': 'CGPA 6.66', 'Higher secondary': '72%', SSLC: '83%' }
